@@ -30,7 +30,6 @@ LatentSkill represents memory actions with a continuous latent policy and decode
 - ALFWorld
 
 ## 🛠️ Setup
- **
 ```bash
 conda create -n latentskill python=3.10
 conda activate latentskill
