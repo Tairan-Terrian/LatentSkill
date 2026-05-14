@@ -1,5 +1,6 @@
 #!/bin/bash
 export CUDA_VISIBLE_DEVICES=0
+export WANDB_API_KEY="[YOUR_WANDB_KEY]"
 
 # --disable-flash-attn \
 # --resume-new-wandb-run
