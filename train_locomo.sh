@@ -16,9 +16,9 @@ python main.py \
     --api-key "YOUR_API_KEY_1" "YOUR_API_KEY_2" \
     --retriever contriever \
     --designer-freq 1 \
-    --inner-epochs 50 \
-    --outer-epochs 2 \
-    --batch-size 4 \
+    --inner-epochs 100 \
+    --outer-epochs 10 \
+    --batch-size 16 \
     --encode-batch-size 16 \
     --session-mode full-session \
     --ppo-epochs 2 \
